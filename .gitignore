@@ -1,5 +1,8 @@
-# Object file
-*.o
+# obrazky
+*.jpg
 
-# Ada Library Information
-*.ali
+#folder
+/ext/*
+
+#obrazky v priecinku
+/images/*.jpg
