@@ -39,3 +39,4 @@ Alergeny
 1. syr
 2. kecup
 3. olivy
+4. chlieb
