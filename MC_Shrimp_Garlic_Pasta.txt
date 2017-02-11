@@ -20,6 +20,7 @@ Ingredients
 alerge warning
 zmena+
 garlic
+nova zmena
 
 Directions
 1. Bring a large pot of lightly salted water to a boil.
